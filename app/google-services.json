@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531709731311",
+    "firebase_url": "https://uiux-729f2.firebaseio.com",
+    "project_id": "uiux-729f2",
+    "storage_bucket": "uiux-729f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531709731311:android:b7a10ff4f12dde7c25561a",
+        "android_client_info": {
+          "package_name": "com.halo.loginui2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531709731311-epvp55bohh8mi62rjlbj469c3afhp86o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halo.loginui2",
+            "certificate_hash": "55092d7cb5dc89f5864a6017dbbeb1f628717ff2"
+          }
+        },
+        {
+          "client_id": "531709731311-f8mp68l11ogqm0vl4vbu4242nf06j0fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAAKYMRouD82dVHycQoyNtL-C6NC4bVTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531709731311-f8mp68l11ogqm0vl4vbu4242nf06j0fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
